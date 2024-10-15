@@ -1,6 +1,15 @@
 <h1 align="center">UR-Haskell - Readme</h1>
 <p align="center"><strong>Solutions to Haskell exercises from my studies at <a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych">University of Rzeszów (UR)</a></strong>
 <div align="center"><a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych"><img src="for_readme/ur_banner.jpg"></a></div>
+
+<br>
+
+## Table of Contents
+- [About](#about)
+- [Technologies](#technologies)
+- [Key learnings](#key-learnings)
+- [Copyright](#copyright)
+
 <br>
 
 ## About 
