@@ -1,11 +1,19 @@
 <h1 align="center">UR-Haskell - Readme</h1>
-<p align="center"><strong>Solutions to Haskell exercises from my studies at University of Rzeszów (UR)</strong>
-<div align="center"><img src="for_readme/ur_banner.jpg"></div>
+<p align="center"><strong>Solutions to Haskell exercises from my studies at <a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych">University of Rzeszów (UR)</a></strong>
+<div align="center"><a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych"><img src="for_readme/ur_banner.jpg"></a></div>
 <br>
 
-## About
-These are my solutions to laboratory exercises carried out as part of the course "Języki i paradygmaty programowania" (Programming languages ​​and paradigms) at UR. 
-The course covered the basics of the functional programming language Haskell and the logic programming language Prolog. The acquired knowledge was tested in the form of a test.
+## About 
+These are my solutions to laboratory exercises carried out as part of the course "Języki i paradygmaty programowania" (Programming languages ​​and paradigms) in the Computer Science program at UR. 
+
+The course covered the basics of the functional programming language Haskell and the logic programming language Prolog ([UR-Prolog]()). The acquired knowledge was tested in the form of a test.
+
+<br>
+
+## Technologies
+- [Haskell](https://www.haskell.org)
+- [ConTEXT Editor](https://www.contexteditor.org)
+- Windows
 
 <br>
 
@@ -23,7 +31,5 @@ The course covered the basics of the functional programming language Haskell and
 
 <br>
 
-## Technologies
-- [Haskell](https://www.haskell.org)
-- [ConTEXT Editor](https://www.contexteditor.org)
-- Windows
+## Copyright
+I do not own the rights to the content of the exercises. All tasks were translated and included only to provide context for the solutions.
