@@ -4,13 +4,14 @@
 
 <br>
 
+<!--
 ## Table of Contents
 - [About](#about)
 - [Technologies](#technologies)
 - [Key learnings](#key-learnings)
 - [Copyright](#copyright)
 
-<br>
+<br>-->
 
 ## About 
 These are my solutions to laboratory exercises carried out as part of the course "Języki i paradygmaty programowania" (Programming languages ​​and paradigms) in the Computer Science program at UR. 
