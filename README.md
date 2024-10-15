@@ -1,8 +1,12 @@
 <h1 align="center">UR-Haskell - Readme</h1>
-<p align="center"><strong>Solutions to Haskell exercises from my studies at <a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych">University of Rzeszów (UR)</a></strong>
+<p align="center">
+  <strong>
+    Solutions to Haskell exercises from my studies at <a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych">University of Rzeszów (UR)</a>
+  </strong>
+</p>
 <div align="center">
   <a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych">
-    <table><tr><td><img src="for_readme/ur_banner.jpg"></td></tr></table>
+    <img src="for_readme/ur_banner.jpg">
   </a>
 </div>
 
