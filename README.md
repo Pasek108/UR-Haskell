@@ -13,21 +13,21 @@
 
 <br>-->
 
-## About 
+## About :dart:
 These are my solutions to laboratory exercises carried out as part of the course "Języki i paradygmaty programowania" (Programming languages ​​and paradigms) in the Computer Science program at UR. 
 
 The course covered the basics of the functional programming language Haskell and the logic programming language Prolog ([UR-Prolog]()). The acquired knowledge was tested in the form of a test.
 
 <br>
 
-## Technologies
+## Technologies :hammer_and_wrench:
 - [Haskell](https://www.haskell.org)
 - [ConTEXT Editor](https://www.contexteditor.org)
 - Windows
 
 <br>
 
-## Key learnings
+## Key learnings :mortar_board:
 - Reading documentation
 - Using interpreter
 - Program compilation
@@ -41,5 +41,5 @@ The course covered the basics of the functional programming language Haskell and
 
 <br>
 
-## Copyright
+## Copyright :copyright:
 I do not own the rights to the content of the exercises. All tasks were translated and included only to provide context for the solutions.
