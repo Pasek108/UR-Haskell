@@ -6,20 +6,11 @@
 </p>
 <div align="center">
   <a href="https://www.ur.edu.pl/pl/kolegia/kolegium-nauk-przyrodniczych">
-    <img src="for_readme/ur_banner.jpg?">
+    <img src="_for_readme/ur_banner.jpg?">
   </a>
 </div>
 
 <br>
-
-<!--
-## Table of Contents
-- [About](#about)
-- [Technologies](#technologies)
-- [Key learnings](#key-learnings)
-- [Copyright](#copyright)
-
-<br>-->
 
 ## About :dart:
 These are my solutions to laboratory exercises carried out as part of the course "Języki i paradygmaty programowania" (Programming languages ​​and paradigms) in the Computer Science program at UR. 
