@@ -29,14 +29,17 @@ The course covered the basics of the functional programming language Haskell and
 ## Key learnings :mortar_board:
 - Reading documentation
 - Using interpreter
-- Program compilation
-- Modules
 - Data types
-- Operators and defining new operators 
+- Implementation of functions and operators
+- Modules
 - Lists and basic lists functions
-- String operations
-- File operations
-- Sorting and using a binary tree
+- Recursive list processing
+- Numerical integration
+- Operations on custom data structures (trees)
+- Executable files
+- Main function
+- Working with files
+- Sorting
 
 <br>
 
